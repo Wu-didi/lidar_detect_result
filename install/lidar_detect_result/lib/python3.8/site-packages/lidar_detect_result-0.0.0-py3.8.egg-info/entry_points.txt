@@ -1,0 +1,3 @@
+[console_scripts]
+lidar_detect_result = lidar_detect_result.get_detect_result:main
+
