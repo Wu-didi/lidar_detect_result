@@ -1,0 +1,24 @@
+[1.844s] Invoking command in '/home/nvidia/vcii/wudi/lidar_detect_result': PYTHONPATH=/home/nvidia/vcii/wudi/lidar_detect_result/build/lidar_detect_result/prefix_override:/home/nvidia/vcii/wudi/lidar_detect_result/install/lidar_detect_result/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/lidar_detect_result build --build-base /home/nvidia/vcii/wudi/lidar_detect_result/build/lidar_detect_result/build install --record /home/nvidia/vcii/wudi/lidar_detect_result/build/lidar_detect_result/install.log --install-scripts $base/lib/lidar_detect_result --single-version-externally-managed
+[2.181s] running egg_info
+[2.182s] writing build/lidar_detect_result/lidar_detect_result.egg-info/PKG-INFO
+[2.183s] writing dependency_links to build/lidar_detect_result/lidar_detect_result.egg-info/dependency_links.txt
+[2.183s] writing entry points to build/lidar_detect_result/lidar_detect_result.egg-info/entry_points.txt
+[2.184s] writing requirements to build/lidar_detect_result/lidar_detect_result.egg-info/requires.txt
+[2.184s] writing top-level names to build/lidar_detect_result/lidar_detect_result.egg-info/top_level.txt
+[2.233s] reading manifest file 'build/lidar_detect_result/lidar_detect_result.egg-info/SOURCES.txt'
+[2.235s] writing manifest file 'build/lidar_detect_result/lidar_detect_result.egg-info/SOURCES.txt'
+[2.235s] running build
+[2.236s] running build_py
+[2.236s] copying lidar_detect_result/get_detect_result.py -> /home/nvidia/vcii/wudi/lidar_detect_result/build/lidar_detect_result/build/lib/lidar_detect_result
+[2.236s] running install
+[2.237s] running install_lib
+[2.239s] copying /home/nvidia/vcii/wudi/lidar_detect_result/build/lidar_detect_result/build/lib/lidar_detect_result/get_detect_result.py -> /home/nvidia/vcii/wudi/lidar_detect_result/install/lidar_detect_result/lib/python3.8/site-packages/lidar_detect_result
+[2.240s] byte-compiling /home/nvidia/vcii/wudi/lidar_detect_result/install/lidar_detect_result/lib/python3.8/site-packages/lidar_detect_result/get_detect_result.py to get_detect_result.cpython-38.pyc
+[2.242s] running install_data
+[2.243s] running install_egg_info
+[2.246s] removing '/home/nvidia/vcii/wudi/lidar_detect_result/install/lidar_detect_result/lib/python3.8/site-packages/lidar_detect_result-0.0.0-py3.8.egg-info' (and everything under it)
+[2.246s] Copying build/lidar_detect_result/lidar_detect_result.egg-info to /home/nvidia/vcii/wudi/lidar_detect_result/install/lidar_detect_result/lib/python3.8/site-packages/lidar_detect_result-0.0.0-py3.8.egg-info
+[2.249s] running install_scripts
+[2.276s] Installing lidar_detect_result script to /home/nvidia/vcii/wudi/lidar_detect_result/install/lidar_detect_result/lib/lidar_detect_result
+[2.276s] writing list of installed files to '/home/nvidia/vcii/wudi/lidar_detect_result/build/lidar_detect_result/install.log'
+[2.327s] Invoked command in '/home/nvidia/vcii/wudi/lidar_detect_result' returned '0': PYTHONPATH=/home/nvidia/vcii/wudi/lidar_detect_result/build/lidar_detect_result/prefix_override:/home/nvidia/vcii/wudi/lidar_detect_result/install/lidar_detect_result/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/lidar_detect_result build --build-base /home/nvidia/vcii/wudi/lidar_detect_result/build/lidar_detect_result/build install --record /home/nvidia/vcii/wudi/lidar_detect_result/build/lidar_detect_result/install.log --install-scripts $base/lib/lidar_detect_result --single-version-externally-managed
